@@ -1,0 +1,30 @@
+body {
+    font-family: Georgia, serif;
+    font-size: 18px;
+    max-width: 640px;
+    margin: 48px auto;
+    text-align: center;
+}
+
+h1 {
+    color: #e74c3c;
+    font-size: 32px;
+}
+
+h2 {
+    color: #8e44ad;
+}
+
+p {
+    color: #555;
+}
+
+ul {
+    display: inline-block;
+    padding-left: 24px;
+    text-align: left;
+}
+
+a {
+    color: #3498db;
+}
