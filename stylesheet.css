@@ -28,3 +28,11 @@ ul {
 a {
     color: #3498db;
 }
+
+.profile-photo {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 16px;
+}
